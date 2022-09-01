@@ -8,3 +8,4 @@ Important steps for git workflow:
 5. Commit changes to version history
 6. View change history with git log
 .
+MAKING A CHANGE DIRECTLY ON GITHUB.COM

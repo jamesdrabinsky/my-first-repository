@@ -9,3 +9,5 @@ Important steps for git workflow:
 6. View change history with git log
 .
 MAKING A CHANGE DIRECTLY ON GITHUB.COM
+
+MAKING CHANGES IN LOCAL REPO
